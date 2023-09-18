@@ -1,3 +1,3 @@
 # Public-Repository
-This is my frist repository
+This is my first repository
 I am looking forward to learning more
